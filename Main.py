@@ -215,3 +215,4 @@ async def resume(con):
             if paused[con.message.server.id] ==True:
                 servers_songs[con.message.server.id].resume()
                 paused[con.message.server.id]=False
+client.run("NTMxNzk1OTcxMDIyMjU4MTg2.DxbKtw.RWLWtg-a1m04c31oD1EW1yyAFy0")
